@@ -1,0 +1,7 @@
+C:\Users\LOQ\Desktop\Projects\c#\Test\TestTime\obj\Debug\TestTime.csproj.AssemblyReference.cache
+C:\Users\LOQ\Desktop\Projects\c#\Test\TestTime\obj\Debug\TestTime.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Desktop\Projects\c#\Test\TestTime\bin\Debug\TestTime.exe.config
+C:\Users\LOQ\Desktop\Projects\c#\Test\TestTime\bin\Debug\TestTime.exe
+C:\Users\LOQ\Desktop\Projects\c#\Test\TestTime\bin\Debug\TestTime.pdb
+C:\Users\LOQ\Desktop\Projects\c#\Test\TestTime\obj\Debug\TestTime.exe
+C:\Users\LOQ\Desktop\Projects\c#\Test\TestTime\obj\Debug\TestTime.pdb
